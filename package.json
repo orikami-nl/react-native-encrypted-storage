@@ -1,6 +1,6 @@
 {
-  "name": "react-native-encrypted-storage",
-  "version": "4.0.3",
+  "name": "@orikami-nl/react-native-encrypted-storage",
+  "version": "4.0.4",
   "description": "A React Native wrapper over SharedPreferences and Keychain to provide a secure alternative to Async Storage",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -36,15 +36,15 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/emeraldsanto/react-native-encrypted-storage",
+  "repository": "https://github.com/orikami-nl/react-native-encrypted-storage",
   "author": "emeraldsanto <yanick.belanger@yahoo.com> (https://github.com/emeraldsanto)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emeraldsanto/react-native-encrypted-storage/issues"
+    "url": "https://github.com/orikami-nl/react-native-encrypted-storage/issues"
   },
-  "homepage": "https://github.com/emeraldsanto/react-native-encrypted-storage#readme",
+  "homepage": "https://github.com/orikami-nl/react-native-encrypted-storage#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "@types/jest": "26.0.0",
